@@ -1,0 +1,5 @@
+E:\Dev\MathGame\MathGame.exe
+E:\Dev\MathGame\MathGame.dll
+E:\Dev\MathGame\MathGame.deps.json
+E:\Dev\MathGame\MathGame.runtimeconfig.json
+E:\Dev\MathGame\MathGame.pdb
